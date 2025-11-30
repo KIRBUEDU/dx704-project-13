@@ -1,0 +1,8 @@
+INTRO: Hi, I am PlainGPT and I have no tools.
+USER: Hi
+AGENT: MOCK_MODEL: You said -> Hi
+USER: Hi
+AGENT: MOCK_MODEL: You said -> Hi
+USER: how are you
+AGENT: MOCK_MODEL: You said -> how are you
+USER EXITED

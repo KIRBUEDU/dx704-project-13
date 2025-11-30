@@ -1,0 +1,105 @@
+INTRO: Part 4 Flashcard Session
+USER: India
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: India
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: India
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: India
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: India
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: India
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: India
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: India
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: a
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: India
+AGENT: Unknown command. Use:
+create note FRONT ; BACK ; DECK
+save deck DECKNAME
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: create note Apple ; A fruit ; vocab
+TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+TOOLRETURN Created note in deck 'vocab'.
+USER: save deck vocab
+TOOLCALL save_anki_deck vocab
+TOOLRETURN Saved deck 'vocab' to mydeck.apkg
+USER EXITED
