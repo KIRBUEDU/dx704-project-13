@@ -1,103 +1,36 @@
 INTRO: Part 4 Flashcard Session
-USER: India
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
-USER: India
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
-USER: India
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
-USER: India
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
-USER: India
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
-USER: India
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
-USER: India
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
-USER: India
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
-USER: a
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
-USER: India
-AGENT: Unknown command. Use:
-create note FRONT ; BACK ; DECK
-save deck DECKNAME
 USER: create note Apple ; A fruit ; vocab
 TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note Dog ; An animal ; vocab
+TOOLCALL create_anki_note ('Dog', 'An animal', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note Red ; A color ; vocab
+TOOLCALL create_anki_note ('Red', 'A color', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note CPU ; Central processing unit ; vocab
+TOOLCALL create_anki_note ('CPU', 'Central processing unit', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note RAM ; Memory used by programs ; vocab
+TOOLCALL create_anki_note ('RAM', 'Memory used by programs', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note GPU ; Graphics processor ; vocab
+TOOLCALL create_anki_note ('GPU', 'Graphics processor', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note Car ; Graphics processor ; vocab
+TOOLCALL create_anki_note ('Car', 'Graphics processor', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note Car ; A vehicle ; vocab
+TOOLCALL create_anki_note ('Car', 'A vehicle', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note Cold ; Low temperature ; vocab
+TOOLCALL create_anki_note ('Cold', 'Low temperature', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note Hot ; High temperature ; vocab
+TOOLCALL create_anki_note ('Hot', 'High temperature', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
-TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
-TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
-TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
-TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
-TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
-TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
-TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
-TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
-TOOLRETURN Created note in deck 'vocab'.
-USER: create note Apple ; A fruit ; vocab
-TOOLCALL create_anki_note ('Apple', 'A fruit', 'vocab')
+USER: create note Cloud ; Water vapor in sky ; vocab
+TOOLCALL create_anki_note ('Cloud', 'Water vapor in sky', 'vocab')
 TOOLRETURN Created note in deck 'vocab'.
 USER: save deck vocab
 TOOLCALL save_anki_deck vocab

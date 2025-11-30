@@ -8,6 +8,4 @@ TOOLRETURN Red: 0, Green: 0, Blue: 255
 USER: cyan
 TOOLCALL show_color {'red': 0, 'green': 255, 'blue': 255}
 TOOLRETURN Red: 0, Green: 255, Blue: 255
-USER: green
-USER: green
 USER EXITED

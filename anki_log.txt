@@ -1,6 +1,7 @@
 INTRO: Hi, I am AnkiGPT and I can help build your flashcard decks.
-USER: test
-AGENT: Sorry, I did not understand. Try again.
+USER: create deck sample
+TOOLCALL create_empty_deck {'deck': 'sample'}
+TOOLRETURN Created empty Anki deck 'sample'.
 USER: save deck test
 TOOLCALL save_anki_deck {'deck': 'test'}
 TOOLRETURN Saved Anki deck 'test' to empty.apkg
